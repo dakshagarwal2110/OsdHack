@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "587045539900",
+    "project_id": "osdh-14bb7",
+    "storage_bucket": "osdh-14bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587045539900:android:dae48c4d02358c4a983339",
+        "android_client_info": {
+          "package_name": "com.collegemeet.android.osdhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587045539900-lp0p5i47fprg8vvoiv4a4af87e0769nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.collegemeet.android.osdhack",
+            "certificate_hash": "5348dcad6ae9ae735c85d5fab55019c734b67028"
+          }
+        },
+        {
+          "client_id": "587045539900-h57vsf0vcn1l2ihu83l6mddfja07krdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvm8LdnA2Qb7-4FnNo2NX3m_-YlsJMbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587045539900-h57vsf0vcn1l2ihu83l6mddfja07krdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
